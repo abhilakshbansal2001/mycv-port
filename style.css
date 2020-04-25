@@ -1,0 +1,185 @@
+body {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+ol li{
+  list-style-type: none;
+  display: inline-block;
+
+}
+.header a {
+  text-decoration: none;
+}
+
+img{
+  position: absolute;
+
+  right: 16%;
+  height: 200px;
+  width: 200px;
+  top: 22%;
+  margin: 0;
+
+}
+.bg-img {
+  margin: 0;
+  background-color: white;
+  top: 0;
+  width: 100%;
+  height: 650px;
+  position: relative;
+
+}
+
+ ################################## coment ##########################################
+
+.topnav{
+
+  margin: 0;
+  top: 10%;
+  background-color: none;
+  color:#00b8a9;
+  width: auto;
+  position: absolute;
+
+
+}
+.header li{
+  margin: 0;
+  color: #abedd8;
+  padding: 15px;
+  font-size: 20px;
+
+}
+
+.me{
+
+  position: absolute;
+  right: 30px;
+  top: 10px;
+  margin: 0;
+  color: #abedd8;
+  padding: 15px;
+
+  font-size: 40px;
+}
+.bg-img h1{
+  margin: 0;
+  position: absolute;
+  font-size: 50px;
+  color: #f8f3d4;
+  left: 3%;
+  top: 250px;
+  font-family: 'Pacifico';
+    margin-left: 40px;
+
+}
+h3 {
+  margin: 0;
+  position: absolute;
+  color: white;
+  top: 44%;
+  left :7%;
+  font-family: 'Inconsolata', monospace;
+  letter-spacing: 12px;
+  margin-top: 40px;
+}
+.middle {
+  width: 100%;
+  height: 1000px ;
+  background-color: #3d84a8;
+  position: relative;
+}
+
+h2 {
+  margin: 0;
+  text-align: center;
+  font-family: 'Inconsolata', monospace;
+  color: #f6f6f6;
+  letter-spacing: 5px;
+  padding-top: 40px;
+  font-size: 70px;
+}
+
+.progress{
+  margin-left: 20px;
+  width: 60% ;
+}
+.skills {
+  margin: 0;
+  position: absolute;
+  right: 60px;
+  top: 150px;
+  font-size: 40px;
+  font-family: 'Nunito', sans-serif;
+  color:#522546;
+}
+.Education{
+  width: 100%;
+  height: 700px ;
+  background-color: white;
+  position: relative;
+
+}
+.button{
+  position: absolute;
+
+  right: 15%;
+  top: 50%;
+}
+.button a {
+  text-decoration: none;
+  color: black;
+
+}
+.button a:hover{
+  margin: 0;
+    color: brown;
+    text-decoration: none;
+}
+.bottom {
+  margin: 0;
+  background-color: black;
+  border-radius: 50px;
+  width: 100%
+  height:auto;
+}
+.w3-text-light-grey{
+
+  text-align: left;
+  letter-spacing: 4px;
+}
+.skill{
+  width: 75%;
+  margin-left: 10%;
+}
+.w3-wide {
+  color: #142850;
+}
+
+input{
+  border-radius: 20px;
+}
+.headruler{
+  height:1.8px;
+  border-width:0;
+  background-color:white;
+  color: white;
+  width: 140px;
+  position: absolute;
+  left: 17%;
+  border-radius: 30px;
+  top: 37%;
+}
+.pep p {
+  width: 28%;
+  font-size: 20px;
+  position: absolute;
+  right: 12%;
+  top: 60%;
+  margin-top: 30px;
+  color: #faf4ff;
+  font-family: sans-serif;
+  font-weight: 400;
+  letter-spacing: 3px;
+}
